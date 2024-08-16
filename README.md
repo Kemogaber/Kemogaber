@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kareem Gaber</h1>
+![github-header-image](https://github.com/user-attachments/assets/0c55147b-3cc4-4372-b7f5-261f5696bc42)
+
 <h3 align="center">AI practitioner specializing in Cybersecurity. Developing projects that integrate smart systems with robust security solutions</h3>
+
+<img align="right" alt="Coding" width="395" src="https://i.pinimg.com/originals/80/ab/46/80ab46ce3e991da1596d8358f459d587.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemogaber&label=Profile%20views&color=0e75b6&style=flat" alt="kemogaber" /> </p>
 
