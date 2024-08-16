@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Kareem Gaber
-![I am a computer systems engineer at Ainshams university](![github-header-image](https://github.com/user-attachments/assets/f9122bad-33c9-4234-b9c4-c82b6102dbb8))
+![I am a computer systems engineer at Ainshams university] ![github-header-image](https://github.com/user-attachments/assets/0ea2464c-6ce4-4a48-adf9-ad4d88c7c59e)
 
 AI practitioner specializing in Cybersecurity. Developing projects that integrate smart systems with robust security solutions
 
